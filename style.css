@@ -1,0 +1,38 @@
+.container{
+    font-size: 40px;
+    word-spacing: 200px;
+    background-color: #C6A894;
+    width: 1270px;
+    height: 90px;
+    text-align: center;
+}
+
+.shoppingcart{
+    width: 40px;
+    height: 40px;
+    margin-top: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+
+.container2{
+    font-size: 25px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container3{
+    background-color: #C6A894;
+    margin-top: 350px;
+    font-size: 20px;
+    width: 1270px;
+    height: 60px;
+    text-align: center;
+}
+
+
+
